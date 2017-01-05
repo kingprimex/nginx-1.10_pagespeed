@@ -1,0 +1,13 @@
+Package: nginx-dbg
+Source: nginx
+Version: 1.10.2-1~xenial
+Architecture: amd64
+Maintainer: Sergey Budnevitch <sb@nginx.com>
+Installed-Size: 42784
+Depends: nginx (= 1.10.2-1~xenial)
+Section: debug
+Priority: extra
+Homepage: http://nginx.org
+Description: nginx debug symbols
+ This package contains the debugging symbols for nginx.
+Build-Ids: 82b24bae722c8097751a1ce26de4d8574ef88b43 eeaff2aaf14ad07e83a87040b2ef0ffdb5e7462f
