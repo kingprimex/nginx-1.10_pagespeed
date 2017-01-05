@@ -1,4 +1,5 @@
-# nginx-1.10_pagespeed
+#Bash commands
+````
 apt-get build-dep nginx
 apt-get update
 apt-get build-dep nginx
@@ -59,3 +60,4 @@ nginx -V
 cd /opt/ngx_pagespeed/
 ls
 ls -lrth
+````
